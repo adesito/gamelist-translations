@@ -1,0 +1,362 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<system>Wolf3D</system>
+		<creator>Ckau</creator>
+		<web>https://ckaunui.github.io/www</web>
+	</provider>
+	<game>
+		<path>./Beyond Wolfenstein 2.cmd</path>
+		<name>Beyond Wolfenstein 2</name>
+		<desc>Редкая тотальная конверсия оригинального Wolfenstein 3D:
+3 новых эпизода: Fatface's Revenge, A POW's Story, Special Edition.
+2 новых режима: Rocket Arena II, Clone Wars.
+
+Оружие:
+Knife (Нож; сделан еще более слабым, чем в оригинальной игре)
+Shotgun (Дробовик из Duke Nukem)
+MP40 (похожий на оригинал)
+Rocket Launcher (Ракетница)
+Sturmgewehr 44 (экспериментальная штурмовая винтовка 1944 г., один из первых автоматов)
+2x Pistols Akimbo (Двойной пистолет Акимбо, отсылка к Blood)
+Machinnen Gewehr 38 (Пулемет).</desc>
+		<image>./_media/art/Beyond Wolfenstein 2-screenshot.jpg</image>
+		<video>./_media/video/Beyond Wolfenstein 2-video.mp4</video>
+		<marquee>./_media/wheel/Beyond Wolfenstein 2-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Beyond Wolfenstein 2-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Beyond Wolfenstein 2-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20011119T000000</releasedate>
+		<developer>Ndev Software</developer>
+		<publisher>Ndev Software</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D HD.cmd</path>
+		<name>Wolfenstein 3D Cosmetic Upgrade</name>
+		<desc>Как следует из названия, мод представляет собой обновление оригинального Wolfenstein 3D с более детализированной графикой, высоким качеством музыки, звуков и т.д.</desc>
+		<image>./_media/art/Wolfenstein 3D HD-screenshot.jpg</image>
+		<video>./_media/video/Wolfenstein 3D HD-video.mp4</video>
+		<marquee>./_media/wheel/Wolfenstein 3D HD-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Wolfenstein 3D HD-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Wolfenstein 3D HD-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20161119T000000</releasedate>
+		<developer>Executor</developer>
+		<publisher>Executor</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D - Escape from Totenhaus.cmd</path>
+		<name>Wolfenstein 3D: Escape from Totenhaus SE</name>
+		<desc>Escape from Totenhaus - сценарий для Mac-версии игры Wolfenstein 3D, созданный Лазом Рохасом. Мод послужил источником вдохновения для множества ремейков и спин-оффов, включая специальное издание для Mac и популярный сценарий WolfenDOOM.
+
+Оригинальный сценарий был выпущен в 1996 году и продавался компанией WolfAddict Software. После распада компании он продавался Рохасом по электронной почте за 6 долларов, пока в конце концов не был выложен бесплатно. В игре полностью новые уровни и графика, в основном перекрашенные текстуры и спрайты из оригинальной игры. В 2003 году было выпущено "Специальное издание", содержащее переработанные уровни и новые спрайты врагов, в частности, женщин-охранников.</desc>
+		<image>./_media/art/Wolfenstein 3D - Escape from Totenhaus-screenshot.jpg</image>
+		<video>./_media/video/Wolfenstein 3D - Escape from Totenhaus-video.mp4</video>
+		<marquee>./_media/wheel/Wolfenstein 3D - Escape from Totenhaus-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Wolfenstein 3D - Escape from Totenhaus-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Wolfenstein 3D - Escape from Totenhaus-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19961119T000000</releasedate>
+		<developer>Laz Rojas</developer>
+		<publisher>WolfAddict Software</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Spear of Destiny Mission 2 - Return To Danger.cmd</path>
+		<name>Wolfenstein: Spear of Destiny Mission 2 - Return To Danger</name>
+		<desc>Первый из двух «Потерянных эпизодов» из дополнения Spear of Destiny к легендарной Wolfenstein 3D. А «потерянных» потому, что выходили они, к сожалению, лишь в ограниченном тираже и поиграть в них в своё время удалось немногим. Но в век Интернета то, во что не поиграли тогда, удастся поиграть сейчас.
+
+После шести недель с конца событий предыдущей части Spear of Destiny нацистам удалось вновь украсть Копьё Судьбы, то самое, которым римский воин Лонгин пронзил подреберье Иисуса Христа и которое Би-Джей уже возвращал. Узнав, куда было доставлено Копьё, Блажкович, ни минуты не мешкая, отправился на секретную нацистскую базу, выстроенную в скандинавских горах, дабы вернуть ненадолго утраченную реликвию.</desc>
+		<image>./_media/art/Spear of Destiny Mission 2 - Return To Danger-screenshot.jpg</image>
+		<video>./_media/video/Spear of Destiny Mission 2 - Return To Danger-video.mp4</video>
+		<marquee>./_media/wheel/Spear of Destiny Mission 2 - Return To Danger-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Spear of Destiny Mission 2 - Return To Danger-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Spear of Destiny Mission 2 - Return To Danger-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19941119T000000</releasedate>
+		<developer>FormGen</developer>
+		<publisher>FormGen</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Spear of Destiny Mission 3 - Ultimate Challenge.cmd</path>
+		<name>Wolfenstein: Spear of Destiny Mission 3 - Ultimate Challenge</name>
+		<desc>Второй из двух «Потерянных эпизодов» из дополнения Spear of Destiny к легендарной Wolfenstein 3D. А «потерянных» потому, что выходили они, к сожалению, лишь в ограниченном тираже и поиграть в них в своё время удалось немногим. Но в век Интернета в то, во что не поиграли тогда, удастся поиграть сейчас.
+
+Би-Джею удалось возвратить Копьё Судьбы, однако нацисты не дремлют: им снова посчастливилось заполучить его в свои руки. На этот раз они доставили его прямо в секретный бункер Адольфа Гитлера, в котором оный, изучив и исправив все свои предыдущие ошибки, каким-то образом раздобыл военные технологии будущего и намеревается таки выиграть войну. Но этому не бывать, поскольку наш герой всегда готов разрушить грязные планы фюрера. Однако, как и следует из названия дополнения, в этот раз сделать это будет не так уж и легко, так как бункер нацистского вождя укреплён и охраняется самыми сильными и беспощадными солдатами Третьего рейха.</desc>
+		<image>./_media/art/Spear of Destiny Mission 3 - Ultimate Challenge-screenshot.jpg</image>
+		<video>./_media/video/Spear of Destiny Mission 3 - Ultimate Challenge-video.mp4</video>
+		<marquee>./_media/wheel/Spear of Destiny Mission 3 - Ultimate Challenge-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Spear of Destiny Mission 3 - Ultimate Challenge-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Spear of Destiny Mission 3 - Ultimate Challenge-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19941119T000000</releasedate>
+		<developer>FormGen</developer>
+		<publisher>FormGen</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Spear of Destiny.cmd</path>
+		<name>Wolfenstein: Spear of Destiny</name>
+		<desc>Spear of Destiny приквел Wolfenstein 3D. Также как в Wolfenstein 3D главным героем Spear of Destiny выступает американский шпион Уильям «Би-Джей» Джозеф Блажкович. Ему поручено отбить у нацистов легендарное Копьё судьбы (Spear of Destiny собственно), которое было похищено из Версальского дворца.</desc>
+		<image>./_media/art/Spear of Destiny-screenshot.jpg</image>
+		<video>./_media/video/Spear of Destiny-video.mp4</video>
+		<marquee>./_media/wheel/Spear of Destiny-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Spear of Destiny-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Spear of Destiny-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19921119T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>FormGen</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Super 3D Noah's Ark.cmd</path>
+		<name>Super 3D Noah's Ark</name>
+		<desc>Сказание о Ноевом ковчеге и Всемирном Потопе является едва ли не самым известным произведением из Библии. По нему сняли множество как документальных, так и художественных фильмов, издали множество книг с исследованием данной темы, и, казалось бы, игры тоже должны быть.
+
+Вы Ной, и вам суждено бродить по огромным залам вашего ковчега, усыпляя непослушных и проснувшихся животных, попутно собирая фрукты и ягоды - видимо, для детишек.
+
+Животные, они же и противники, в этой игре представлены в большей степени козлами и козами, также имеются боссы – верблюд, жираф, слон и так далее.
+
+Ной (то есть вы) орудует рогаткой, стреляющей едой, которая оказывает усыпляющий эффект на противников. Если же кончился корм (боеприпасы), то не беда: можно всегда воспользоваться рукой, бросающей неограниченное количество зерна прямо в хари ошалевших скотин. На уровнях можно найти усовершенствованные рогатки с прицелом, а также местные аналоги пулемёта, щедро разбрасывающие "снотворное" в глотки голодных коз и прочих тварей.
+
+Уровни довольно разнообразные, однако всё же не дотягивают сложностью и обилием лабиринтов до Wolf3D. На выбор предоставляется шесть эпизодов с указанным в меню боссом в конце каждого.
+
+На некоторых уровнях время от времени появляются листки с заданиями, в которых игрок должен отвечать на вопросы викторины, связанные с библейским сюжетом о Всемирном Потопе, при этом за правильные ответы персонаж получает дополнительную еду и очки. Исходя из этого, можно отметить, что игра в какой-то степени и образовательная.</desc>
+		<image>./_media/art/Super 3D Noah's Ark-screenshot.jpg</image>
+		<video>./_media/video/Super 3D Noah's Ark-video.mp4</video>
+		<marquee>./_media/wheel/Super 3D Noah's Ark-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Super 3D Noah's Ark-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Super 3D Noah's Ark-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19951119T000000</releasedate>
+		<developer>Wisdom Tree</developer>
+		<publisher>Wisdom Tree</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D.cmd</path>
+		<name>Wolfenstein 3D</name>
+		<desc>Игрок берёт на себя роль разведчика союзников Второй мировой войны Уильяма (Би-Джея) Бласковица, который пытается сбежать из места своего заключения — замка Вольфенштайн — и выполняет ряд диверсионных заданий против нацистского режима. На каждом уровне игрок должен сражаться с нацистскими солдатами, собаками и мутантами, используя нож и огнестрельное оружие.
+
+Wolfenstein 3D получила признание у критиков и награды от журналов в различных номинациях, а объём её продаж через год оцениваелся в 200 000 копий. Игра способствовала популяризации жанра шутера от первого лица, стала образцом для быстрых экшен-игр и установила планку технологического исполнения для последующих игр в жанре.</desc>
+		<image>./_media/art/Wolfenstein 3D-screenshot.jpg</image>
+		<video>./_media/video/Wolfenstein 3D-video.mp4</video>
+		<marquee>./_media/wheel/Wolfenstein 3D-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Wolfenstein 3D-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Wolfenstein 3D-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19921119T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Apogee Software</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Beyond Wolfenstein 2.ecwolf</path>
+		<name>Beyond Wolfenstein 2</name>
+		<desc>Редкая тотальная конверсия оригинального Wolfenstein 3D:
+3 новых эпизода: Fatface's Revenge, A POW's Story, Special Edition.
+2 новых режима: Rocket Arena II, Clone Wars.
+
+Оружие:
+Knife (Нож; сделан еще более слабым, чем в оригинальной игре)
+Shotgun (Дробовик из Duke Nukem)
+MP40 (похожий на оригинал)
+Rocket Launcher (Ракетница)
+Sturmgewehr 44 (экспериментальная штурмовая винтовка 1944 г., один из первых автоматов)
+2x Pistols Akimbo (Двойной пистолет Акимбо, отсылка к Blood)
+Machinnen Gewehr 38 (Пулемет).</desc>
+		<image>./_media/art/Beyond Wolfenstein 2-screenshot.jpg</image>
+		<video>./_media/video/Beyond Wolfenstein 2-video.mp4</video>
+		<marquee>./_media/wheel/Beyond Wolfenstein 2-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Beyond Wolfenstein 2-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Beyond Wolfenstein 2-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20011119T000000</releasedate>
+		<developer>Ndev Software</developer>
+		<publisher>Ndev Software</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D HD.ecwolf</path>
+		<name>Wolfenstein 3D Cosmetic Upgrade</name>
+		<desc>Как следует из названия, мод представляет собой обновление оригинального Wolfenstein 3D с более детализированной графикой, высоким качеством музыки, звуков и т.д.</desc>
+		<image>./_media/art/Wolfenstein 3D HD-screenshot.jpg</image>
+		<video>./_media/video/Wolfenstein 3D HD-video.mp4</video>
+		<marquee>./_media/wheel/Wolfenstein 3D HD-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Wolfenstein 3D HD-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Wolfenstein 3D HD-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>20161119T000000</releasedate>
+		<developer>Executor</developer>
+		<publisher>Executor</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D - Escape from Totenhaus.ecwolf</path>
+		<name>Wolfenstein 3D: Escape from Totenhaus SE</name>
+		<desc>Escape from Totenhaus - сценарий для Mac-версии игры Wolfenstein 3D, созданный Лазом Рохасом. Мод послужил источником вдохновения для множества ремейков и спин-оффов, включая специальное издание для Mac и популярный сценарий WolfenDOOM.
+
+Оригинальный сценарий был выпущен в 1996 году и продавался компанией WolfAddict Software. После распада компании он продавался Рохасом по электронной почте за 6 долларов, пока в конце концов не был выложен бесплатно. В игре полностью новые уровни и графика, в основном перекрашенные текстуры и спрайты из оригинальной игры. В 2003 году было выпущено "Специальное издание", содержащее переработанные уровни и новые спрайты врагов, в частности, женщин-охранников.</desc>
+		<image>./_media/art/Wolfenstein 3D - Escape from Totenhaus-screenshot.jpg</image>
+		<video>./_media/video/Wolfenstein 3D - Escape from Totenhaus-video.mp4</video>
+		<marquee>./_media/wheel/Wolfenstein 3D - Escape from Totenhaus-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Wolfenstein 3D - Escape from Totenhaus-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Wolfenstein 3D - Escape from Totenhaus-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19961119T000000</releasedate>
+		<developer>Laz Rojas</developer>
+		<publisher>WolfAddict Software</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Spear of Destiny Mission 2 - Return To Danger.ecwolf</path>
+		<name>Wolfenstein: Spear of Destiny Mission 2 - Return To Danger</name>
+		<desc>Первый из двух «Потерянных эпизодов» из дополнения Spear of Destiny к легендарной Wolfenstein 3D. А «потерянных» потому, что выходили они, к сожалению, лишь в ограниченном тираже и поиграть в них в своё время удалось немногим. Но в век Интернета то, во что не поиграли тогда, удастся поиграть сейчас.
+
+После шести недель с конца событий предыдущей части Spear of Destiny нацистам удалось вновь украсть Копьё Судьбы, то самое, которым римский воин Лонгин пронзил подреберье Иисуса Христа и которое Би-Джей уже возвращал. Узнав, куда было доставлено Копьё, Блажкович, ни минуты не мешкая, отправился на секретную нацистскую базу, выстроенную в скандинавских горах, дабы вернуть ненадолго утраченную реликвию.</desc>
+		<image>./_media/art/Spear of Destiny Mission 2 - Return To Danger-screenshot.jpg</image>
+		<video>./_media/video/Spear of Destiny Mission 2 - Return To Danger-video.mp4</video>
+		<marquee>./_media/wheel/Spear of Destiny Mission 2 - Return To Danger-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Spear of Destiny Mission 2 - Return To Danger-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Spear of Destiny Mission 2 - Return To Danger-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19941119T000000</releasedate>
+		<developer>FormGen</developer>
+		<publisher>FormGen</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Spear of Destiny Mission 3 - Ultimate Challenge.ecwolf</path>
+		<name>Wolfenstein: Spear of Destiny Mission 3 - Ultimate Challenge</name>
+		<desc>Второй из двух «Потерянных эпизодов» из дополнения Spear of Destiny к легендарной Wolfenstein 3D. А «потерянных» потому, что выходили они, к сожалению, лишь в ограниченном тираже и поиграть в них в своё время удалось немногим. Но в век Интернета в то, во что не поиграли тогда, удастся поиграть сейчас.
+
+Би-Джею удалось возвратить Копьё Судьбы, однако нацисты не дремлют: им снова посчастливилось заполучить его в свои руки. На этот раз они доставили его прямо в секретный бункер Адольфа Гитлера, в котором оный, изучив и исправив все свои предыдущие ошибки, каким-то образом раздобыл военные технологии будущего и намеревается таки выиграть войну. Но этому не бывать, поскольку наш герой всегда готов разрушить грязные планы фюрера. Однако, как и следует из названия дополнения, в этот раз сделать это будет не так уж и легко, так как бункер нацистского вождя укреплён и охраняется самыми сильными и беспощадными солдатами Третьего рейха.</desc>
+		<image>./_media/art/Spear of Destiny Mission 3 - Ultimate Challenge-screenshot.jpg</image>
+		<video>./_media/video/Spear of Destiny Mission 3 - Ultimate Challenge-video.mp4</video>
+		<marquee>./_media/wheel/Spear of Destiny Mission 3 - Ultimate Challenge-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Spear of Destiny Mission 3 - Ultimate Challenge-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Spear of Destiny Mission 3 - Ultimate Challenge-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19941119T000000</releasedate>
+		<developer>FormGen</developer>
+		<publisher>FormGen</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Spear of Destiny.ecwolf</path>
+		<name>Wolfenstein: Spear of Destiny</name>
+		<desc>Spear of Destiny приквел Wolfenstein 3D. Также как в Wolfenstein 3D главным героем Spear of Destiny выступает американский шпион Уильям «Би-Джей» Джозеф Блажкович. Ему поручено отбить у нацистов легендарное Копьё судьбы (Spear of Destiny собственно), которое было похищено из Версальского дворца.</desc>
+		<image>./_media/art/Spear of Destiny-screenshot.jpg</image>
+		<video>./_media/video/Spear of Destiny-video.mp4</video>
+		<marquee>./_media/wheel/Spear of Destiny-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Spear of Destiny-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Spear of Destiny-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19921119T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>FormGen</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Super 3D Noah's Ark.ecwolf</path>
+		<name>Super 3D Noah's Ark</name>
+		<desc>Сказание о Ноевом ковчеге и Всемирном Потопе является едва ли не самым известным произведением из Библии. По нему сняли множество как документальных, так и художественных фильмов, издали множество книг с исследованием данной темы, и, казалось бы, игры тоже должны быть.
+
+Вы Ной, и вам суждено бродить по огромным залам вашего ковчега, усыпляя непослушных и проснувшихся животных, попутно собирая фрукты и ягоды - видимо, для детишек.
+
+Животные, они же и противники, в этой игре представлены в большей степени козлами и козами, также имеются боссы – верблюд, жираф, слон и так далее.
+
+Ной (то есть вы) орудует рогаткой, стреляющей едой, которая оказывает усыпляющий эффект на противников. Если же кончился корм (боеприпасы), то не беда: можно всегда воспользоваться рукой, бросающей неограниченное количество зерна прямо в хари ошалевших скотин. На уровнях можно найти усовершенствованные рогатки с прицелом, а также местные аналоги пулемёта, щедро разбрасывающие "снотворное" в глотки голодных коз и прочих тварей.
+
+Уровни довольно разнообразные, однако всё же не дотягивают сложностью и обилием лабиринтов до Wolf3D. На выбор предоставляется шесть эпизодов с указанным в меню боссом в конце каждого.
+
+На некоторых уровнях время от времени появляются листки с заданиями, в которых игрок должен отвечать на вопросы викторины, связанные с библейским сюжетом о Всемирном Потопе, при этом за правильные ответы персонаж получает дополнительную еду и очки. Исходя из этого, можно отметить, что игра в какой-то степени и образовательная.</desc>
+		<image>./_media/art/Super 3D Noah's Ark-screenshot.jpg</image>
+		<video>./_media/video/Super 3D Noah's Ark-video.mp4</video>
+		<marquee>./_media/wheel/Super 3D Noah's Ark-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Super 3D Noah's Ark-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Super 3D Noah's Ark-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19951119T000000</releasedate>
+		<developer>Wisdom Tree</developer>
+		<publisher>Wisdom Tree</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D.ecwolf</path>
+		<name>Wolfenstein 3D</name>
+		<desc>Игрок берёт на себя роль разведчика союзников Второй мировой войны Уильяма (Би-Джея) Бласковица, который пытается сбежать из места своего заключения — замка Вольфенштайн — и выполняет ряд диверсионных заданий против нацистского режима. На каждом уровне игрок должен сражаться с нацистскими солдатами, собаками и мутантами, используя нож и огнестрельное оружие.
+
+Wolfenstein 3D получила признание у критиков и награды от журналов в различных номинациях, а объём её продаж через год оцениваелся в 200 000 копий. Игра способствовала популяризации жанра шутера от первого лица, стала образцом для быстрых экшен-игр и установила планку технологического исполнения для последующих игр в жанре.</desc>
+		<image>./_media/art/Wolfenstein 3D-screenshot.jpg</image>
+		<video>./_media/video/Wolfenstein 3D-video.mp4</video>
+		<marquee>./_media/wheel/Wolfenstein 3D-wheel.png</marquee>
+		<thumbnail>./_media/boxart/Wolfenstein 3D-boxart.jpg</thumbnail>
+		<fanart>./_media/fanart/Wolfenstein 3D-fanart.jpg</fanart>
+		<rating>0</rating>
+		<releasedate>19921119T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Apogee Software</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+</gameList>
